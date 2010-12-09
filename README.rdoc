@@ -1,7 +1,7 @@
 = newie
 
 Newie for PHP is the fastest dependency injection framework ever.
-Based in Newie for Ruby and Python, which is based in vapor.js, newie allows you to inject your dependencies in a way that no
+Based in Newie for Ruby and Python, which are based in vapor.js, newie allows you to inject your dependencies in a way that no
 other controller allows you.
 
 == First example
